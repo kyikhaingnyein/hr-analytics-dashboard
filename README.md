@@ -1,1 +1,2 @@
-# hr-analytics-dashboard
+# HR Analytics Dashboard: Headcount and Turnover Analysis
+
