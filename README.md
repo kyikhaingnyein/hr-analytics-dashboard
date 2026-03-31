@@ -1,2 +1,3 @@
-# HR Analytics Dashboard: Headcount and Turnover Analysis
+# HR Analytics Dashboard Project
+
 
