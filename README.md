@@ -1,6 +1,6 @@
 # HR Analytics Dashboard Project
 
-1. HR Report: Headcount Analysis
+# 1. HR Report: Headcount Analysis
 
 
 
