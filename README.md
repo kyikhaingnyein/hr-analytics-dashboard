@@ -30,19 +30,19 @@ The overall turnover rate is high at 43%, indicating significant challenges in t
 - Competitive Pay: Better salary is the third most common reason, indicating the company may be falling behind market rates.
 
 ## **3. Key Takeaways & Actionable Insights**
-- Turnover Risk
+**- Turnover Risk**
   - Overall turnover is 43%, indicating a significant retention challenges.
   - Managers and Directors are leaving at higher rates, creating potential leadership gaps.
 
-- Critical Departments
+**- Critical Departments**
   - R&D and Sales experience the highest attrition, impacting performance and revenue.
   - Individual Contributors in these departments are also leaving at higher rates, affecting team stability.
 
-- Compensation & Benefits 
+**- Compensation & Benefits **
   - Employees are leaving for better pay and more flexible benefits.
   - Current offerings are not fully competitive compared to the market.
 
-- Remote Workforce & Engagement 
+**- Remote Workforce & Engagement **
   - 80% of employees work remotely, requiring stronger engagement strategies.
   - Lack of engagement may increase turnover risk and reduce team cohension.
 
