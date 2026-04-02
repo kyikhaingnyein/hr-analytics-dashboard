@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-**1. HR Report: Headcount Analysis**
+## **1. HR Report: Headcount Analysis**
 The organization maintains a total headcount of 3,409 employees (as of the 2012–2023 reporting period).
 
 Departmental & Level Distribution
