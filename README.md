@@ -17,7 +17,7 @@ Location & Work Mode
 Work Style: 80% of employees work Remote, wiht only 20% On-site.
 Top Cities: San Francisco (408) and Los Angeles (341) are the primary hubs.
 
-**2. HR Report: Employee Turnover Analysis**
+## **2. HR Report: Employee Turnover Analysis**
 The overall turnover rate is high at 43%, indicating significant challenges in talent retention.
 
 Trends & Attrition Points
