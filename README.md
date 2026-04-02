@@ -46,7 +46,7 @@ Remote Workforce & Engagement
 80% of employees work remotely, requiring stronger engagement strategies.
 Lack of engagement may increase turnover risk and reduce team cohension.
 
-##**4. Conclusion & Recommendations**
+## **4. Conclusion & Recommendations**
 The organization faces a high turnover rate, particularly among Managers, Directors, and employees in R&D and Sales, which requires urgent retention strategies.
 Current compensation and benefits are not competitive, and adjusting them to match market standards can help reduce departures.
 Leadership engagement and succession planning should be stregngthed to prevent gaps and maintain stability.
