@@ -1,6 +1,6 @@
 # HR Analytics Dashboard
 
-**HR Report: Headcount Analysis**
+**1. HR Report: Headcount Analysis**
 The organization maintains a total headcount of 3,409 employees (as of the 2012–2023 reporting period).
 
 Departmental & Level Distribution
@@ -16,3 +16,6 @@ Marital Status: 71% of the workforce is single, which may correlate with the hig
 Location & Work Mode
 Work Style: 80% of employees work Remote, wiht only 20% On-site.
 Top Cities: San Francisco (408) and Los Angeles (341) are the primary hubs.
+
+**2. HR Report: Employee Turnover Analysis**
+The overall turnover rate is high at 43%, indicating significant challenges in talent retention.
