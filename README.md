@@ -29,7 +29,7 @@ Reasons for Departure
 Top Drivers: The primary reasons for leaving are finding better opportunities and seeking more fexible benefits.
 Competitive Pay: Better salary is the third most common reason, indicating the company may be falling behind market rates.
 
-**Key Takeaways & Actionable Insights**
+## **3. Key Takeaways & Actionable Insights**
 Turnover Risk
 Overall turnover is 43%, indicating a significant retention challenges.
 Managers and Directors are leaving at higher rates, creating potential leadership gaps.
@@ -46,7 +46,7 @@ Remote Workforce & Engagement
 80% of employees work remotely, requiring stronger engagement strategies.
 Lack of engagement may increase turnover risk and reduce team cohension.
 
-**Conclusion & Recommendations**
+##**4. Conclusion & Recommendations**
 The organization faces a high turnover rate, particularly among Managers, Directors, and employees in R&D and Sales, which requires urgent retention strategies.
 Current compensation and benefits are not competitive, and adjusting them to match market standards can help reduce departures.
 Leadership engagement and succession planning should be stregngthed to prevent gaps and maintain stability.
