@@ -19,3 +19,18 @@ Top Cities: San Francisco (408) and Los Angeles (341) are the primary hubs.
 
 **2. HR Report: Employee Turnover Analysis**
 The overall turnover rate is high at 43%, indicating significant challenges in talent retention.
+
+Trends & Attrition Points
+Historical Trend: Turnover peaked in 2014 (6.78%) and saw another significant spike in 2021 (5.10%)>
+High-Risk Departments: R&D and Sales suffer from the highest attrition rates.
+Job Level Vulnerability: Managers and Directors are leaving at higher rates than Individual Contributors, suggesting a "leadership drain".
+
+Reasons for Departure
+Top Drivers: The primary reasons for leaving are finding better opportunities and seeking more fexible benefits.
+Competitive Pay: Better salary is the third most common reason, indicating the company may be falling behind market rates.
+
+Key Takeaways & Actionable Insights
+Turnover Risk
+Overall turnover is 43%, indicating a significant retention challenges.
+Managers and Directors are le
+
