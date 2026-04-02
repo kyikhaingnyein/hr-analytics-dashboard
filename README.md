@@ -1,6 +1,4 @@
-# HR Analytics Dashboard Project
+# HR Analytics Dashboard
 
-# 1. HR Report: Headcount Analysis
-
-The organization
+1. HR Headcount
 
