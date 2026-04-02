@@ -30,7 +30,7 @@ The overall turnover rate is high at 43%, indicating significant challenges in t
 - Competitive Pay: Better salary is the third most common reason, indicating the company may be falling behind market rates.
 
 ## **3. Key Takeaways & Actionable Insights**
-**- Turnover Risk**
+- Turnover Risk
   - Overall turnover is 43%, indicating a significant retention challenges.
   - Managers and Directors are leaving at higher rates, creating potential leadership gaps.
 
