@@ -32,5 +32,12 @@ Competitive Pay: Better salary is the third most common reason, indicating the c
 Key Takeaways & Actionable Insights
 Turnover Risk
 Overall turnover is 43%, indicating a significant retention challenges.
-Managers and Directors are le
+Managers and Directors are leaving at higher rates, creating potential leadership gaps.
+
+Critical Departments
+R&D and Sales experience the highest attrition, impacting performance and revenue.
+Individual Contributors in these departments are also leaving at higher rates, affecting team stability.
+
+Compensation & Benefits 
+Employees are leaving for better pay 
 
