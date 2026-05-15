@@ -14,7 +14,7 @@ The organization maintains a total headcount of 3,409 employees (as of the 2012â
 - Marital Status: 71% of the workforce is single, which may correlate with the high percentage of individual contributors and the peak age range.
 
 **Location & Work Mode**
-- Work Style: 80% of employees work Remote, wiht only 20% On-site.
+- Work Style: 80% of employees work Remote, with only 20% On-site.
 - Top Cities: San Francisco (408) and Los Angeles (341) are the primary hubs.
 
 ## **2. HR Report: Employee Turnover Analysis**
